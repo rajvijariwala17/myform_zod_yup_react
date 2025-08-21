@@ -1,5 +1,5 @@
- import { LoginFormZod } from "./LoginFormZod";
-import { LoginFormYup } from "./LoginFormYup";
+ import { LoginFormZod } from "./components/LoginFormZod";
+import { LoginFormYup } from "./components/LoginFormYup";
 import './App.css'
 
 function App() {
